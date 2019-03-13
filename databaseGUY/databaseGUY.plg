@@ -1,0 +1,38 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: databaseGUY - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/databaseGUY.res" /d "_DEBUG" /d "_AFXDLL" "C:\Users\LXX\Desktop\MFCSQL\databaseGUY\databaseGUY.rc"" 
+Creating temporary file "C:\Users\LXX\AppData\Local\Temp\RSPA83.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/学生信息系统.pdb" /debug /machine:I386 /out:"Debug/学生信息系统.exe" /pdbtype:sept 
+.\Debug\AddNew.obj
+.\Debug\AddNew2.obj
+.\Debug\CntrItem.obj
+.\Debug\databaseGUY.obj
+.\Debug\databaseGUYDoc.obj
+.\Debug\databaseGUYSet.obj
+.\Debug\databaseGUYView.obj
+.\Debug\MainFrm.obj
+.\Debug\RecordsetAdd.obj
+.\Debug\RecordsetAdd2.obj
+.\Debug\SHUJUNew.obj
+.\Debug\StdAfx.obj
+.\Debug\databaseGUY.res
+]
+Creating command line "link.exe @C:\Users\LXX\AppData\Local\Temp\RSPA83.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+学生信息系统.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
